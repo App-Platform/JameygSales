@@ -21,7 +21,7 @@
     <preference name="fullscreen"       value="false" />
 	<preference name="android-installLocation" value="auto" />
 
-    <icon src="iconsAndroid/android-icon-96x96.png" />
+    <icon src="iconsAndroid/android-icon-72x72.png" />
 	<icon src="iconsAndroid/android-icon-36x36.png" gap:platform="android" gap:density="ldpi" />
 	<icon src="iconsAndroid/android-icon-48x48.png" gap:platform="android" gap:density="mdpi" />
 	<icon src="iconsAndroid/android-icon-72x72.png" gap:platform="android" gap:density="hdpi" />
